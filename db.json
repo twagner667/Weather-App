@@ -1,0 +1,40 @@
+{
+  "favorites": [
+    {
+      "Title": "Interior Health opening up more vaccine clinics - CFNR Network",
+      "Author": "Cael Maslin",
+      "UrlToImage": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1006/files/2019/03/interior-health.jpg",
+      "Url": "https://www.cfnrfm.ca/2022/03/02/interiorhealthopeningupmorevaccineclinics/",
+      "Username": "t.wagner667@gmail.com",
+      "Description": "Over the next couple of weeks, Interior Health is planning on opening up more COVID vaccine clinic locations. ...",
+      "id": 5
+    },
+    {
+      "Title": "N.B. COVID-19 roundup: Hospitalizations, ICU and ventilator cases all increase - CBC.ca",
+      "Author": null,
+      "UrlToImage": "https://i.cbc.ca/1.6334411.1643673020!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/humber-river-hospital-icu-omicron.JPG",
+      "Url": "https://www.cbc.ca/news/canada/new-brunswick/covid-19-new-brunswick-doctors-unvaccinated-omicron-ba-2-1.6369317",
+      "Username": "t.wagner667@gmail.com",
+      "Description": "The number of New Brunswickers hospitalized with COVID-19, those requiring intensive care and those on a ventilator all increased Wednesday, the COVID dashboard shows.",
+      "id": 7
+    },
+    {
+      "Title": "Boebert outburst on Afghanistan jolts State of the Union - CTV News",
+      "Author": null,
+      "UrlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2022/3/2/lauren-boebert--marjorie-taylor-greene-heckling-1-5802547-1646241469356.jpg",
+      "Url": "https://www.ctvnews.ca/business/boebert-outburst-on-afghanistan-jolts-state-of-the-union-1.5802534",
+      "Username": "t.wagner667@gmail.com",
+      "Description": "As U.S. President Joe Biden was coming to the end of his State of the Union address Tuesday night, a sombre moment about his son's death turned into a stunning outburst by one of the Republicans' most outspoken members.",
+      "id": 8
+    },
+    {
+      "Title": "COVID-19: B.C. ICU numbers lowest since start of 2022 - Global News",
+      "Author": "Amy Judd",
+      "UrlToImage": "https://globalnews.ca/wp-content/uploads/2021/09/GettyImages-1234905455-e1632266562371.jpg?quality=85&strip=all&crop=0px%2C0px%2C720px%2C380px&resize=720%2C379",
+      "Url": "https://globalnews.ca/news/8655185/bc-covid-19-update-wednesday-march-2-2022/",
+      "Username": "t.wagner667@gmail.com",
+      "Description": "B.C. public health data shows 442 new cases of COVID-19 have been recorded since Tuesday but testing capabilities remain limited in the province.",
+      "id": 9
+    }
+  ]
+}

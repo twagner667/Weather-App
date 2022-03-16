@@ -1,0 +1,14 @@
+<mat-toolbar color="primary">
+  <span style="padding-left:22px">Headlines News</span>
+  <span style="padding-left:22px">{{this.service.username}}</span>
+</mat-toolbar>
+<mat-toolbar color="primary">
+  <a routerLink="/" mat-icon-button class="text-light px-4">News</a>
+  <a routerLink="/favorite" mat-icon-button class="text-light px-4">Favorites</a>
+  <span class="example-spacer"></span>
+  <a routerLink="/register" mat-icon-button class="text-light">Register</a>
+  <a routerLink="/login" mat-icon-button class="text-light px-4">Login</a>
+  <a routerLink="/login"(click)="signout()" mat-icon-button class="text-light px-4">Signout</a>
+ 
+</mat-toolbar>
+<router-outlet></router-outlet>
